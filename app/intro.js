@@ -1,4 +1,4 @@
-define(['jquery'], function ($) {
+define(['jquery'], function () {
   // global namespace
   var cssJs = window.cssJs = window.cssJs || Object.create(null);
   // simple alias name
